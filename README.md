@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Munin-coder
-- 👀 I’m interested in ... web dev.
-- 🌱 I’m currently learning...web dev.
+- 👀 I’m interested in ... web dev,ai/ml.
 - 💞️ I’m looking to collaborate on... open source
 - 📫 How to reach me ...dm me 
   
